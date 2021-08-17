@@ -2,6 +2,15 @@
 
 Django Resume-Upload app is a full featured Resume-Uploader app. You have to upload your resume in this app to show the education, skills, expirence etc.And uoload and download the file and upload the profile image.
 
+### Highlights:
+* Radio Button
+* Multiple Checkbox
+* Image File
+* Doc/PDF File
+* Select Field
+* Date Picker
+* Delete Unused Media File
+
 <h1>Getting Started</h1>
 <p>These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.</p>
 
